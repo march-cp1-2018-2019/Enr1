@@ -31,7 +31,7 @@ class MyEx extends Exception { }
 			 
 			 throw new MyEx();
 			 
-		 }
+			 }
 		 
 		 System.out.print("r");
 		 
